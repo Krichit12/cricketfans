@@ -1,0 +1,30 @@
+@charset "utf-8";
+.body_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+.list_headings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.img_left_float {
+	float: left;
+	margin-right: 10px;
+	border: thin solid #666;
+}
+.img_right_folat {
+	border: thin solid #666;
+	float: right;
+	margin-left: 10px;
+}
+.list_headings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #006;
+}
+.form_table {
+	width: 625px;
+}
